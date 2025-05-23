@@ -1,4 +1,4 @@
-cd C:\Users\Joj\Desktop
+cd C:\Users\Joj\Desktop\todo-app
 git init
 git add .
 git commit -m "Initial commit"
